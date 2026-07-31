@@ -12,6 +12,10 @@
 
 </div>
 
+<p align="center">
+  <img src="image/performance-hero.png" alt="Task Manager — Performance tab (CPU per-core graphs)" width="900" />
+</p>
+
 ---
 
 GNOME System Monitor is fine, but it never quite scratched the itch — so this is the
